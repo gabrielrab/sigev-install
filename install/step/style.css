@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+section{
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0.188em 0.188em 0.313em rgba(0,0,0, .2);
+}
+.logo{
+    max-width: 320px;
+}
+.espaco{
+    margin-top: 1em;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+label{
+    width: 100%;
+}
+.max{
+    max-width: 320px;
+}

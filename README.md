@@ -1,2 +1,2 @@
-# sigev-intall
-Repository of SIGEV sytem
+# sigev-install
+Repository of SIGEV system
